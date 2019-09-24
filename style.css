@@ -5,11 +5,11 @@ body {
 }
 
 header {
-  align-items: : center;
+  align-self: : center;
 }
 
 img {
-  align-items: center;
+  align-self: center;
 }
 
 nav a {
