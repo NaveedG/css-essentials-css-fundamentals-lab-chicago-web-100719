@@ -11,3 +11,9 @@ header {
 img {
   align-content: center;
 }
+
+nav a {
+  left: 10px;
+  right: 10px;
+  color: red;
+}
