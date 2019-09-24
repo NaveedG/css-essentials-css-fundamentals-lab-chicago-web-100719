@@ -17,3 +17,10 @@ nav a {
   right: 10px;
   color: red;
 }
+
+figcaption {
+  align-content: center;
+  font-size: small;
+}
+
+
