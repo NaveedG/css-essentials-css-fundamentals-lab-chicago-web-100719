@@ -33,10 +33,10 @@ p#featured-property {
 div#details {
   display: block;
   float: left;
-  text-align: center;
 }
 
 div {
+  display: block
   float: left;
   text-align: center;
   background-color: red;
